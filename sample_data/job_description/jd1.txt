@@ -1,0 +1,3 @@
+Data Analyst Role
+Must-have: Python
+Good-to-have: SQL
